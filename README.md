@@ -1,9 +1,8 @@
 # Hi there 👋
-<br>
+
 <br>
 I like coding and have ventured into the world of Artificial Intelligence - Machine learning, deep learning and data science and built portfolio projects using Python for cleaning and analysing datasets, training models and making predictions through them. I am a passionate learner and want to gain knowledge of Artificial intelligence and apply it to solve real life problems. I have recently started learning web development. 
 <hr/>
-<br>
 <br>
 
 

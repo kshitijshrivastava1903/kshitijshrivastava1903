@@ -26,7 +26,7 @@ I like coding and have ventured into the world of Artificial Intelligence - Mach
 <li>👯 I’m looking to collaborate on AI projects</li>
 <li>🤔 I’m looking for help with Machine Learning, Web Development</li>
 <li>💬 Ask me about tensorflow, keras, neural networks, natural language processing</li>
-<li>📫 How to reach me: Contact me on mail (mailto:kshitijshrivastava36@gmail.com), LinkedIn (https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/) </li>
+  <li>📫 How to reach me: Contact me on <a href="mailto:kshitijshrivastava36@gmail.com><"kshitijshrivastava36@gmail.com"></a><, LinkedIn (https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/) </li>
 <li>😄 Pronouns:He/him</li>
 </ul>
  

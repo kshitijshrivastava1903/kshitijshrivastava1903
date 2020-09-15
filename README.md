@@ -9,6 +9,7 @@
     <a href="https://www.facebook.com/kshitij.shrivastava.378"><img src="https://i.imgur.com/STdJsZU.png",width="40" height="40" /> </a></td>
   <td><a href="https://www.instagram.com/kshitij_shrivastava36/"><img src="https://i.imgur.com/M6yBwxS.png" ,width="40" height="40" /> </a></td>
     <td><a href="https://twitter.com/KshitijShriva12"><img src="https://i.imgur.com/XlctxvH.png" ,width="40" height="40" /> </a></td>
+     <td><a href="kshitijshrivastava36@gmail.com"><img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" ,width="40" height="40" /></a></td>
 </tr>
 </table>
 <br>
@@ -25,7 +26,7 @@ I like coding and have ventured into the world of Artificial Intelligence - Mach
 <li>👯 I’m looking to collaborate on AI projects</li>
 <li>🤔 I’m looking for help with Machine Learning, Web Development</li>
 <li>💬 Ask me about tensorflow, keras, neural networks, natural language processing</li>
-<li>📫 How to reach me: Contact me on mail (www.kshitijshrivastava36@gmail.com), LinkedIn (https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/) </li>
+<li>📫 How to reach me: Contact me on mail LinkedIn (https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/) </li>
 <li>😄 Pronouns:He/him</li>
 </ul>
  

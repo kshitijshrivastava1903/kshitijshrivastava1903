@@ -9,7 +9,7 @@
     <a href="https://www.facebook.com/kshitij.shrivastava.378"><img src="https://i.imgur.com/STdJsZU.png",width="40" height="40" /> </a></td>
   <td><a href="https://www.instagram.com/kshitij_shrivastava36/"><img src="https://i.imgur.com/M6yBwxS.png" ,width="40" height="40" /> </a></td>
     <td><a href="https://twitter.com/KshitijShriva12"><img src="https://i.imgur.com/XlctxvH.png" ,width="40" height="40" /> </a></td>
-     <td><a href="www.kshitijshrivastava36@gmail.com"><img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" ,width="40" height="40" /></a></td>
+     <td><a href="mailto:kshitijshrivastava36@gmail.com"><img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" ,width="40" height="40" /></a></td>
 </tr>
 </table>
 <br>

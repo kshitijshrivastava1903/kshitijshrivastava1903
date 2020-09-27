@@ -2,15 +2,14 @@
 </hr>
 <a href=""https://twitter.com/KshitijShriva12"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/kshitij.shrivastava.378"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> <a href="https://www.instagram.com/kshitij_shrivastava36/"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="mailto:kshitijshrivastava36@gmail.com"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
-
+<br>
 
 
 ## Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-<br>
 
 
-<br>
+
 I like coding and have ventured into the world of Artificial Intelligence - Machine learning, deep learning and data science and built portfolio projects using Python for cleaning and analysing datasets, training models and making predictions through them. I am a passionate learner and want to gain knowledge of Artificial intelligence and apply it to solve real life problems. I have recently started learning web development. 
 <br>
 <br>

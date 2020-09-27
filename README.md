@@ -2,20 +2,12 @@
 
 <br>
 
-<table>
-  <tr>
-  <td><a href="https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/"><img src="https://i.imgur.com/OQUXwNp.jpeg" , width="40" height="40" /></a></td>
-  <td>
-    <a href="https://www.facebook.com/kshitij.shrivastava.378"><img src="https://i.imgur.com/STdJsZU.png",width="40" height="40" /> </a></td>
-  <td><a href="https://www.instagram.com/kshitij_shrivastava36/"><img src="https://i.imgur.com/M6yBwxS.png" ,width="40" height="40" /> </a></td>
-    <td><a href="https://twitter.com/KshitijShriva12"><img src="https://i.imgur.com/XlctxvH.png" ,width="40" height="40" /> </a></td>
-     <td><a href="mailto:kshitijshrivastava36@gmail.com"><img src="https://pngimg.com/uploads/gmail_logo/gmail_logo_PNG4.png" ,width="40" height="40" /></a></td>
-</tr>
-</table>
+
 <br>
 I like coding and have ventured into the world of Artificial Intelligence - Machine learning, deep learning and data science and built portfolio projects using Python for cleaning and analysing datasets, training models and making predictions through them. I am a passionate learner and want to gain knowledge of Artificial intelligence and apply it to solve real life problems. I have recently started learning web development. 
 <br>
 <br>
+<a href=""https://twitter.com/KshitijShriva12"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/kshitij.shrivastava.378"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> <a href="https://www.instagram.com/kshitij_shrivastava36/"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="mailto:kshitijshrivastava36@gmail.com"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 
 
 
@@ -46,4 +38,3 @@ I like coding and have ventured into the world of Artificial Intelligence - Mach
 <td><img src="https://blueorange.digital/wp-content/uploads/2019/12/Logo_Seaborn.png" ,width="200" height="100" /></td>
 </tr>
 </table>
-<a href=""https://twitter.com/KshitijShriva12"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/kshitij-shrivastava-a5aaa4118/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.facebook.com/kshitij.shrivastava.378"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a> <a href="https://www.instagram.com/kshitij_shrivastava36/"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a><a href="mailto:kshitijshrivastava36@gmail.com"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>

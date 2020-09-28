@@ -24,19 +24,3 @@ I am Kshitij Shrivastava. Coding is my hobby and I have ventured into the world 
 <li>😄 Pronouns:He/him</li>
 </ul>
  
-# Python Libraries I can work with:
-<table>
-  <tr>
-  <td><img src="https://www.tensorflow.org/images/tf_logo_social.png" , width="200" height="100" /></td>
-  <td><img src="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/x3gdrogoamvuvjemehbr",width="200" height="100" /></td></tr>
-  <tr><td><img src="https://i0.wp.com/syncedreview.com/wp-content/uploads/2019/04/image-38-2.png?resize=1440%2C521&ssl=1" ,width="200" height="100" /></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" ,width="200" height="100" /></td>
-  </tr>
-  <tr>
-<tr><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" ,width="200" height="100" /></td>
-<td><img src="https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png" ,width="200" height="100" /></td></tr>
-<tr>
-<td><img src="https://www.fullstackpython.com/img/logos/matplotlib.png" ,width="200" height="100" /></td>
-<td><img src="https://blueorange.digital/wp-content/uploads/2019/12/Logo_Seaborn.png" ,width="200" height="100" /></td>
-</tr>
-</table>
